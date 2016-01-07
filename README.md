@@ -37,3 +37,7 @@ This project should not be used as a resource by anyone tasked with a similar ac
 - Cleaner event handling and/or switch to HashTable design
 - Fix rare edge case where player can kill one of the new aliens during game reset
 - Ensure consistent component execution order
+
+## Citations
+Laser beam art assets borrowed from [Rawdanitsu](http://opengameart.org/content/lasers-and-beams)
+Alien and player ship art are graphically modified versions of the original [Space Invaders](http://villains.wikia.com/wiki/Space_Invaders)
