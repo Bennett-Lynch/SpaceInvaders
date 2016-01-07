@@ -11,9 +11,9 @@ You can move horizontally by using either A/D or LeftArrow/RightArrow
 You can shoot by using W, UpArrow, or SpaceBar
 
 ## Gameplay
-The goal is simply to defeat the alien invaders before they reach the bottom of the screen.  
-Aliens speed up when fewer are remaining, and they collectively change direction when any alien in the pack collides with the side of the screen.  
-The aliens become 20% faster on each new level.  The first level can be cleared by a single player but is quite challenging to do so.
+- The goal is simply to defeat the alien invaders before they reach the bottom of the screen.
+- Aliens speed up when fewer are remaining, and they collectively change direction when any alien in the pack collides with the side of the screen.
+- The aliens become 20% faster on each new level.  The first level can be cleared by a single player but is quite challenging to do so.
 
 ## Made With
 - Language used: Java
