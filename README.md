@@ -1,3 +1,6 @@
+## Video Demo
+[![http://www.youtube.com/watch?v=gwAct4jfT10](http://img.youtube.com/vi/gwAct4jfT10/0.jpg)](http://www.youtube.com/watch?v=gwAct4jfT10 "http://www.youtube.com/watch?v=gwAct4jfT10")
+
 ## Play the Game!
 1. Ensure the latest version of the [Java runtime environment](http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html) is installed
 2. Open and run "SpaceInvaders.jar"
