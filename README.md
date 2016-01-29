@@ -24,7 +24,7 @@ You can shoot by using W, UpArrow, or SpaceBar
 - Libraries used: Processing 2
 
 ## Project Notes
-This project was the final submission of a game engine class that I took in Fall 2015. Over the course of the semester we were tasked with developing our own game engine from scratch and developing a basic 2D platformer alongside it. As part of the final project, we were asked to design a completely different game using the same engine. I was able to reuse my engine to develop this SpaceInvaders game in just 2 days.
+This project was the final submission of a game engine class that I took in Fall 2015. Over the course of the semester we were tasked with developing our own game engine from scratch, with support for a multithreaded client-server network architecture, and developing a basic 2D platformer alongside it. As part of the final project, we were asked to design a completely different game using the same engine. Due to the robust design and functionality of my original engine I was able to use it to create this game in just two days.
 
 ## Reuse Permissions
 This project should not be used as a resource by anyone tasked with a similar academic project.  Otherwise, this project may be freely used and redistributed.
